@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "777394281344",
+    "firebase_url": "https://yaprigalmobileandroid.firebaseio.com",
+    "project_id": "yaprigalmobileandroid",
+    "storage_bucket": "yaprigalmobileandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777394281344:android:765d1d0ffe58770d",
+        "android_client_info": {
+          "package_name": "com.example.zumoappname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777394281344-j3rqootudj194qkiuh58jlaf2mi2mv8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zumoappname",
+            "certificate_hash": "9295194aabe4e99c75f7cdc0f15c055a1558fbc5"
+          }
+        },
+        {
+          "client_id": "777394281344-ie9a8a2bfslq1s9nnfrvil90hefnvpg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0lPFGTvqFz_fjITcG2K69EBXDuyKFHwg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777394281344-ie9a8a2bfslq1s9nnfrvil90hefnvpg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
